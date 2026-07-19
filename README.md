@@ -30,4 +30,4 @@ calculator/
 
 ## Author
 
-[Your Name]
+Dhwaj Gaur
